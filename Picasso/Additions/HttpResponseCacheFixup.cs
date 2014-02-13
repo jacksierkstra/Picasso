@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Android.Runtime;
 
-namespace OkHttp
+namespace Squareup.OkHttp
 {
     public partial class HttpResponseCache
     {
