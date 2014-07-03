@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xamarin.Android.Picasso.JackSierkstra</id>
+    <version>2.2.0</version>
+    <title>Picasso for Xamarin.Android</title>
+    <authors>Jack Sierkstra</authors>
+    <owners>Jack Sierkstra</owners>
+    <licenseUrl>https://github.com/jacksierkstra/Picasso/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/jacksierkstra/Picasso</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Java bindings library from Jake Wharton's square/picasso to Xamarin.Android</description>
+    <releaseNotes>Initial NuGet package.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>Xamarin Mono Android Picasso Picture</tags>
+  </metadata>
+</package>
